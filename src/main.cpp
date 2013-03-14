@@ -1,4 +1,4 @@
-/*! \file omnikiwi.cpp
+/*! \file main.cpp
  *  \author Soo-Hyun Yoo
  *  \brief Main loop.
  *
