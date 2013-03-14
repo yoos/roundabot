@@ -15,3 +15,12 @@
 *.exe
 *.out
 *.app
+
+# Vim
+*.un~
+*.swp
+*.swo
+
+# Temporary
+src/applet
+
